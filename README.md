@@ -112,7 +112,11 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
--- In build --
+**This repository has been created for educational and individual purposes and should not be used with bad intent.**
+
+This keylogger are tested and work great on Mac and Windows. It not be tested on Linux device.
+
+NB : Today our device are protected for this type of script. The script may not work because of your antivirus, or blocked by the permission on your device. You can disable these permissions **only when you run the script** and enable them after the execution.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
