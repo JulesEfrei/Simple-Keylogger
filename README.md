@@ -12,9 +12,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  
-  <img src="images/logo.png" alt="Logo" width="80" height="80" />
-  <!-- https://drive.google.com/uc?export=view&id=      => Google drive Link -->
 
   <h2 align="center">Simple Keylogger</h2>
 
@@ -63,8 +60,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Welcome to the Simple-Keylogger repo! A keylogger is a program that records your keystrokes, and this program saves them in a text file on your local computer.
 
